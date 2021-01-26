@@ -1,0 +1,10 @@
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_4\Ex_1\TestStandartDialog\bin\Debug\TestStandartDialog.exe.config
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_4\Ex_1\TestStandartDialog\bin\Debug\TestStandartDialog.exe
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_4\Ex_1\TestStandartDialog\bin\Debug\TestStandartDialog.pdb
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_4\Ex_1\TestStandartDialog\obj\Debug\TestStandartDialog.Form1.resources
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_4\Ex_1\TestStandartDialog\obj\Debug\TestStandartDialog.Properties.Resources.resources
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_4\Ex_1\TestStandartDialog\obj\Debug\TestStandartDialog.csproj.GenerateResource.cache
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_4\Ex_1\TestStandartDialog\obj\Debug\TestStandartDialog.csproj.CoreCompileInputs.cache
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_4\Ex_1\TestStandartDialog\obj\Debug\TestStandartDialog.exe
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_4\Ex_1\TestStandartDialog\obj\Debug\TestStandartDialog.pdb
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_4\Ex_1\TestStandartDialog\obj\Debug\TestStandartDialog.csprojAssemblyReference.cache

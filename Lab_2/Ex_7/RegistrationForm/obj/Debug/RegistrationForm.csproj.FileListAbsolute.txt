@@ -1,0 +1,9 @@
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_2\Ex_7\RegistrationForm\bin\Debug\RegistrationForm.exe.config
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_2\Ex_7\RegistrationForm\bin\Debug\RegistrationForm.exe
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_2\Ex_7\RegistrationForm\bin\Debug\RegistrationForm.pdb
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_2\Ex_7\RegistrationForm\obj\Debug\RegistrationForm.Properties.Resources.resources
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_2\Ex_7\RegistrationForm\obj\Debug\RegistrationForm.csproj.GenerateResource.cache
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_2\Ex_7\RegistrationForm\obj\Debug\RegistrationForm.csproj.CoreCompileInputs.cache
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_2\Ex_7\RegistrationForm\obj\Debug\RegistrationForm.exe
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_2\Ex_7\RegistrationForm\obj\Debug\RegistrationForm.pdb
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_2\Ex_7\RegistrationForm\obj\Debug\RegistrationForm.Form1.resources

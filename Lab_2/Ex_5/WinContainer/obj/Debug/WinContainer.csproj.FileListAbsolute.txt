@@ -1,0 +1,10 @@
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_2\Ex_5\WinContainer\bin\Debug\WinContainer.exe.config
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_2\Ex_5\WinContainer\bin\Debug\WinContainer.exe
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_2\Ex_5\WinContainer\bin\Debug\WinContainer.pdb
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_2\Ex_5\WinContainer\obj\Debug\WinContainer.csprojAssemblyReference.cache
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_2\Ex_5\WinContainer\obj\Debug\WinContainer.Form1.resources
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_2\Ex_5\WinContainer\obj\Debug\WinContainer.Properties.Resources.resources
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_2\Ex_5\WinContainer\obj\Debug\WinContainer.csproj.GenerateResource.cache
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_2\Ex_5\WinContainer\obj\Debug\WinContainer.csproj.CoreCompileInputs.cache
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_2\Ex_5\WinContainer\obj\Debug\WinContainer.exe
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_2\Ex_5\WinContainer\obj\Debug\WinContainer.pdb

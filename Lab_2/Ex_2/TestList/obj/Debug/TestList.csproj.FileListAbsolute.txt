@@ -1,0 +1,10 @@
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_2\Ex_2\TestList\bin\Debug\TestList.exe.config
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_2\Ex_2\TestList\bin\Debug\TestList.exe
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_2\Ex_2\TestList\bin\Debug\TestList.pdb
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_2\Ex_2\TestList\obj\Debug\TestList.csprojAssemblyReference.cache
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_2\Ex_2\TestList\obj\Debug\TestList.Form1.resources
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_2\Ex_2\TestList\obj\Debug\TestList.Properties.Resources.resources
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_2\Ex_2\TestList\obj\Debug\TestList.csproj.GenerateResource.cache
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_2\Ex_2\TestList\obj\Debug\TestList.csproj.CoreCompileInputs.cache
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_2\Ex_2\TestList\obj\Debug\TestList.exe
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_2\Ex_2\TestList\obj\Debug\TestList.pdb

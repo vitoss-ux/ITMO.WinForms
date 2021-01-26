@@ -1,0 +1,10 @@
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_1\Ex_5\ControlWorkApp1\bin\Debug\ControlWorkApp1.exe.config
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_1\Ex_5\ControlWorkApp1\bin\Debug\ControlWorkApp1.exe
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_1\Ex_5\ControlWorkApp1\bin\Debug\ControlWorkApp1.pdb
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_1\Ex_5\ControlWorkApp1\obj\Debug\ControlWorkApp1.csprojAssemblyReference.cache
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_1\Ex_5\ControlWorkApp1\obj\Debug\ControlWorkApp1.EllipseForm.resources
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_1\Ex_5\ControlWorkApp1\obj\Debug\ControlWorkApp1.Properties.Resources.resources
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_1\Ex_5\ControlWorkApp1\obj\Debug\ControlWorkApp1.csproj.GenerateResource.cache
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_1\Ex_5\ControlWorkApp1\obj\Debug\ControlWorkApp1.csproj.CoreCompileInputs.cache
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_1\Ex_5\ControlWorkApp1\obj\Debug\ControlWorkApp1.exe
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_1\Ex_5\ControlWorkApp1\obj\Debug\ControlWorkApp1.pdb

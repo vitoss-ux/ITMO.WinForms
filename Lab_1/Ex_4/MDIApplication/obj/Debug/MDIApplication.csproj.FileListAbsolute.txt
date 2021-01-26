@@ -1,0 +1,11 @@
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_1\Ex_4\MDIApplication\bin\Debug\MDIApplication.exe.config
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_1\Ex_4\MDIApplication\bin\Debug\MDIApplication.exe
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_1\Ex_4\MDIApplication\bin\Debug\MDIApplication.pdb
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_1\Ex_4\MDIApplication\obj\Debug\MDIApplication.csprojAssemblyReference.cache
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_1\Ex_4\MDIApplication\obj\Debug\MDIApplication.ChildForm.resources
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_1\Ex_4\MDIApplication\obj\Debug\MDIApplication.ParentForm.resources
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_1\Ex_4\MDIApplication\obj\Debug\MDIApplication.Properties.Resources.resources
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_1\Ex_4\MDIApplication\obj\Debug\MDIApplication.csproj.GenerateResource.cache
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_1\Ex_4\MDIApplication\obj\Debug\MDIApplication.csproj.CoreCompileInputs.cache
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_1\Ex_4\MDIApplication\obj\Debug\MDIApplication.exe
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_1\Ex_4\MDIApplication\obj\Debug\MDIApplication.pdb

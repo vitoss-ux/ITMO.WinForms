@@ -1,0 +1,11 @@
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_4\Ex_4\WindowsFormsOwner\bin\Debug\WindowsFormsOwner.exe.config
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_4\Ex_4\WindowsFormsOwner\bin\Debug\WindowsFormsOwner.exe
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_4\Ex_4\WindowsFormsOwner\bin\Debug\WindowsFormsOwner.pdb
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_4\Ex_4\WindowsFormsOwner\obj\Debug\WindowsFormsOwner.csprojAssemblyReference.cache
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_4\Ex_4\WindowsFormsOwner\obj\Debug\WindowsFormsOwner.Form1.resources
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_4\Ex_4\WindowsFormsOwner\obj\Debug\WindowsFormsOwner.Form2.resources
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_4\Ex_4\WindowsFormsOwner\obj\Debug\WindowsFormsOwner.Properties.Resources.resources
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_4\Ex_4\WindowsFormsOwner\obj\Debug\WindowsFormsOwner.csproj.GenerateResource.cache
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_4\Ex_4\WindowsFormsOwner\obj\Debug\WindowsFormsOwner.csproj.CoreCompileInputs.cache
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_4\Ex_4\WindowsFormsOwner\obj\Debug\WindowsFormsOwner.exe
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_4\Ex_4\WindowsFormsOwner\obj\Debug\WindowsFormsOwner.pdb

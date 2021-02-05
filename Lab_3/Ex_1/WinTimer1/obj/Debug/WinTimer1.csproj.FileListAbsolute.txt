@@ -1,0 +1,10 @@
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_3\Ex_1\WinTimer1\bin\Debug\WinTimer1.exe.config
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_3\Ex_1\WinTimer1\bin\Debug\WinTimer1.exe
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_3\Ex_1\WinTimer1\bin\Debug\WinTimer1.pdb
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_3\Ex_1\WinTimer1\obj\Debug\WinTimer1.Properties.Resources.resources
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_3\Ex_1\WinTimer1\obj\Debug\WinTimer1.UserControlTimer.resources
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_3\Ex_1\WinTimer1\obj\Debug\WinTimer1.csproj.GenerateResource.cache
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_3\Ex_1\WinTimer1\obj\Debug\WinTimer1.csproj.CoreCompileInputs.cache
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_3\Ex_1\WinTimer1\obj\Debug\WinTimer1.exe
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_3\Ex_1\WinTimer1\obj\Debug\WinTimer1.pdb
+D:\Изучение C#\Projects\ITMO\C#_WinForms\Lab_3\Ex_1\WinTimer1\obj\Debug\WinTimer1.Form1.resources
